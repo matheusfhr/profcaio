@@ -1,3 +1,18 @@
+body {
+    text-align: center;
+    background-color: blueviolet;
+}
+
 img {
     width: 550px;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    text-align: end;
+    color: black;
 }
